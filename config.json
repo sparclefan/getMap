@@ -1,0 +1,21 @@
+{
+"urls": {
+ "GoogleMap":"http://www.google.cn/maps/vt/pb=!1m4!1m3!1i{zoom}!2i{x}!3i{y}!2m3!1e0!2sm!3i345013117!3m8!2szh-CN!3scn!5e1105!12m4!1e68!2m2!1sset!2sRoadmap!4e0", 
+ "GoogleImgS": "http://mt2.google.cn/vt/lyrs=y&hl=zh-CN&gl=CN&src=app&x={x}&y={y}&z={zoom}&s=G", 
+ "GoogleImg": "http://mt2.google.cn/vt/lyrs=s&hl=zh-CN&gl=CN&src=app&x={x}&y={y}&z={zoom}&s=G",
+ "GoogleAnno": "http://mt2.google.cn/vt/lyrs=h&hl=zh-CN&gl=CN&src=app&x={x}&y={y}&z={zoom}&s=G", 
+ "TdtMap" : "http://t4.tianditu.com/DataServer?T=vec_w&x={x}&y={y}&l={zoom}&tk=45c78b2bc2ecfa2b35a3e4e454ada5ce", 
+ "TdtAnno": "http://t3.tianditu.com/DataServer?T=cva_w&x={x}&y={y}&l={zoom}&tk=45c78b2bc2ecfa2b35a3e4e454ada5ce", 
+ "TdtImg": "http://t2.tianditu.gov.cn/DataServer?T=img_w&x={x}&y={y}&l={zoom}&tk=2ce94f67e58faa24beb7cb8a09780552",
+ "TdtImgS": "http://t2.tianditu.gov.cn/DataServer?T=cia_w&x={x}&y={y}&l={zoom}&tk=2ce94f67e58faa24beb7cb8a09780552",
+ "GdImg": "https://wprd01.is.autonavi.com/appmaptile?x={x}&y={y}&z={zoom}&style=6", 
+ "GdAnno": "https://wprd01.is.autonavi.com/appmaptile?x={x}&y={y}&z={zoom}&lang=zh_cn&size=1&scl=1&style=8&ltype=4"
+  }, 
+"areas": {
+   "中国": [73.66, 3.86, 135.05, 53.55], 
+   "北京": [115, 39, 118, 41.5], 
+   "昌平区": [115.5, 40, 116.3, 40.5], 
+   "十三陵": [116, 40.24, 116.28, 40.33], 
+   "北京市区": [116.27, 39.8029, 116.48, 40.0123]
+  }
+}
